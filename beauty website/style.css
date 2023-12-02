@@ -1,0 +1,16 @@
+.carousel slide{
+    height: 10px;
+    width: auto;
+}
+.mb-3{
+
+    background-color: white;
+    border: 3px solid white;
+    float: left;
+    width: 22%;
+    margin-left: 5px;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 13em;
+}
+
